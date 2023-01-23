@@ -174,7 +174,7 @@ p:hover{
 .lbl{
   background-color: #a09883;
   padding: 5px 10px;
-  margin: 5px 0px;
+  /* margin: 5px 0px; */
   border-radius: 4px;
   font-weight: 700;
   color: rgb(54, 48, 48);
@@ -185,6 +185,8 @@ p:hover{
   border-radius: 4px;
   font-weight: 600;
   text-align: center;
+  margin-bottom: 5px;
+  margin-top: 10px;
 }
 .delete-btn{
   margin: 3% auto;
